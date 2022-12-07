@@ -1,0 +1,7 @@
+C:\Users\yunda0\gitwork3\kakaomap2\bin\Release\net6.0\publish\kakaomap2.exe
+C:\Users\yunda0\gitwork3\kakaomap2\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\yunda0\gitwork3\kakaomap2\bin\Release\net6.0\publish\appsettings.json
+C:\Users\yunda0\gitwork3\kakaomap2\bin\Release\net6.0\publish\kakaomap2.dll
+C:\Users\yunda0\gitwork3\kakaomap2\bin\Release\net6.0\publish\kakaomap2.deps.json
+C:\Users\yunda0\gitwork3\kakaomap2\bin\Release\net6.0\publish\kakaomap2.runtimeconfig.json
+C:\Users\yunda0\gitwork3\kakaomap2\bin\Release\net6.0\publish\kakaomap2.pdb
